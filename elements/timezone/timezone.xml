@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<element type="timezone" group="3RD PARTY">
+    <name>Timezone</name>
+    <author>Gavin Harper / gavin.wales</author>
+    <creationDate>April 2026</creationDate>
+    <description>Timezone picker with continent-grouped dropdown and city search. Outputs timezone ID, display name, abbreviation, and UTC offset.</description>
+    <params>
+        <param name="default_timezone" type="text" default="" label="Default Timezone" description="Optional default timezone ID (e.g. Europe/London). Leave empty for no default." />
+    </params>
+</element>
